@@ -1,0 +1,7 @@
+express
+node_modules
+.env
+.vscode
+combined.log
+error.log
+data.js
